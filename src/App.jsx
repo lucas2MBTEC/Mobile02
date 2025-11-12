@@ -1,4 +1,4 @@
 function App() {
-const[message, setMessage]
+const[message, setMessage] = useState('olá mundo')
 
 }
